@@ -1,1 +1,1 @@
-# python-project
+# python sql-project
